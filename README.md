@@ -1,10 +1,10 @@
 # esx_identity
 
 
-#แก้ไขไฟล์ SQL ให้เรียบร้อยก่อนรันเท่านั้น
+##แก้ไขไฟล์ SQL ให้เรียบร้อยก่อนรันเท่านั้น
 ตำแหน่งที่ต้องแก้ไข position ให้นำพิกัดจุดเกิดมาใส่เรียบร้อยก่อนรัน
 
-#ต้องการไฟล์ cc_text_ui
+##ต้องการไฟล์ cc_text_ui
 https://github.com/CodeCool-Developer/cc_text_UI
 
 ## Requirements
